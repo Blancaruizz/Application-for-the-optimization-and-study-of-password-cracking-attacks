@@ -1,4 +1,4 @@
-# TFG - Application for the Study of Password Cracking Attacks based on Information Extracted from Social Networks
+# TFG - Application for the Study of Password Cracking Attacks Based on Information Extracted from Social Networks
 Author: Blanca Ruiz González
 
 Final Degree Project - Universidad Carlos III de Madrid
