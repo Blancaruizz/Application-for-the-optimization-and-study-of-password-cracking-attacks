@@ -1,4 +1,4 @@
-# TFG - Application for the Optimization and Study of Password Cracking Attacks
+# TFG - Application for the Study of Password Cracking Attacks based on Information Extracted from Social Networks
 Author: Blanca Ruiz González
 
 Final Degree Project - Universidad Carlos III de Madrid
