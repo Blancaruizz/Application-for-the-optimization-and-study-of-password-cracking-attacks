@@ -35,12 +35,11 @@ Using this tool to access accounts without explicit consent is strictly prohibit
 
 - INSTRUCTIONS TO RUN THE PROGRAM - Follow the steps below to set up and run the application locally:
 1. Make sure you have the following installed:
---------------------------------------------------
    Python 3.10 or later
    Node.js and npm (for Playwright installation)
    John the Ripper
    Google Gemini API access
---------------------------------------------------
+   
 2. Install requirements.txt
    pip install -r requirements.txt
    
@@ -55,7 +54,7 @@ Using this tool to access accounts without explicit consent is strictly prohibit
 5. Configure John the Ripper: Ensure that john-local.conf is in the correct directory (next to john.exe or in the working directory) and contains your custom INSTAPOWER rule set.
 
 6. Prepare a sample password file in passwords/ folder. Example format for MD5:
-   username:$dynamic_0$5f4dcc3b5aa765d61d8327deb882cf99
+   username:5f4dcc3b5aa765d61d8327deb882cf99
    
 7. Run the Program:
    python main.py
