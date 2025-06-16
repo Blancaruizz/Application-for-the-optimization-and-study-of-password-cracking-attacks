@@ -1,0 +1,2 @@
+# Application-for-the-optimization-and-study-of-password-cracking-attacks
+Source code for a Python-based tool designed to simulate password auditing using data extracted from public Instagram profiles. The project integrates web crawling, dictionary management, generative AI and John the Ripper for educational password security testing. The author does not take responsibility for any misuse of this tool.
