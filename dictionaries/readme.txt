@@ -1,0 +1,1 @@
+This folder stores the dictionaries associated with extracted Instagram profiles.

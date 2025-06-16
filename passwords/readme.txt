@@ -1,0 +1,1 @@
+This folder contains password hash files (in MD5 format) used in John the Ripper simulations.
