@@ -1,0 +1,8 @@
+PyQt6==6.5.2
+playwright==1.44.0
+google-generativeai==0.4.1
+emoji==2.11.0
+python-dotenv==1.0.1
+spacy==3.7.4
+python -m playwright install
+python -m spacy download es_core_news_sm
